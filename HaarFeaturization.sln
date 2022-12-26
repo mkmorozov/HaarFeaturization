@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32922.545
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HaarFeaturization", "HaarFeaturization\HaarFeaturization.csproj", "{73AEDC68-7E37-460C-9B39-846D7B7591A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestHaarFeaturization", "TestHaarFeaturization\TestHaarFeaturization.csproj", "{D6B33D91-3C62-4300-A8B2-D6362A56D206}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shared", "Shared\Shared.csproj", "{3F332139-933C-4CE8-836C-F31AF4796CAC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo1_SyntheticSignalsClustering", "Demo1_SyntheticSignalsClustering\Demo1_SyntheticSignalsClustering.csproj", "{83ED4963-A71F-4E39-A434-675C7F4BB0DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo2_BirdSongClustering", "Demo2_BirdSongClustering\Demo2_BirdSongClustering.csproj", "{9452A904-2657-431B-989E-52BA06578933}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo3_BirdSongClassification", "Demo3_BirdSongClassification\Demo3_BirdSongClassification.csproj", "{C3C3523D-838C-4053-930C-E0CAAB66EA8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73AEDC68-7E37-460C-9B39-846D7B7591A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73AEDC68-7E37-460C-9B39-846D7B7591A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73AEDC68-7E37-460C-9B39-846D7B7591A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73AEDC68-7E37-460C-9B39-846D7B7591A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6B33D91-3C62-4300-A8B2-D6362A56D206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B33D91-3C62-4300-A8B2-D6362A56D206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B33D91-3C62-4300-A8B2-D6362A56D206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B33D91-3C62-4300-A8B2-D6362A56D206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F332139-933C-4CE8-836C-F31AF4796CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F332139-933C-4CE8-836C-F31AF4796CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F332139-933C-4CE8-836C-F31AF4796CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F332139-933C-4CE8-836C-F31AF4796CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83ED4963-A71F-4E39-A434-675C7F4BB0DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83ED4963-A71F-4E39-A434-675C7F4BB0DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83ED4963-A71F-4E39-A434-675C7F4BB0DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83ED4963-A71F-4E39-A434-675C7F4BB0DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9452A904-2657-431B-989E-52BA06578933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9452A904-2657-431B-989E-52BA06578933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9452A904-2657-431B-989E-52BA06578933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9452A904-2657-431B-989E-52BA06578933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3C3523D-838C-4053-930C-E0CAAB66EA8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C3523D-838C-4053-930C-E0CAAB66EA8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C3523D-838C-4053-930C-E0CAAB66EA8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C3523D-838C-4053-930C-E0CAAB66EA8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27503B69-A714-4256-AA19-6B2DC14CCE87}
+	EndGlobalSection
+EndGlobal

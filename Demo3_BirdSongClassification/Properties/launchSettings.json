@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Demo3_BirdSongClassification": {
+      "commandName": "Project"
+    },
+    "Profile 1": {
+      "commandName": "Executable"
+    }
+  }
+}
