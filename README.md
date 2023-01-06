@@ -16,7 +16,7 @@ Main properties of HF are as follows:
 
 1) **HF complexity is linear in both time and memory** HF is based on the combination of [Haar Transform](https://en.wikipedia.org/wiki/Haar_wavelet) and basic statistical computations. As all of the underlying algorithms are *O(n)* in both time and memory, HF is too.
 
-2) **HF entails dimensionality reduction** Due to hierarchical of Haar Transform, HF converts a time series of length *n* into *O(log(n))* features. 
+2) **HF entails dimensionality reduction** Due to hierarchical nature of Haar Transform, HF converts a time series of length *n* into *O(log(n))* features. 
 
 3) **HF may discern stationary and non-stationary time series** For instance, all of the time series in the picture below have the same frequency content, but differ in temporal organization. A combination of HF and k-means clustering correctly separates the time series into two clusters: non-stationary (top row) and stationary (bottom row).
 

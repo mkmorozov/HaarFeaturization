@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo1_SyntheticSignalsClust
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo2_BirdSongClustering", "Demo2_BirdSongClustering\Demo2_BirdSongClustering.csproj", "{9452A904-2657-431B-989E-52BA06578933}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo3_BirdSongClassification", "Demo3_BirdSongClassification\Demo3_BirdSongClassification.csproj", "{C3C3523D-838C-4053-930C-E0CAAB66EA8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo3_BirdSongClassification", "Demo3_BirdSongClassification\Demo3_BirdSongClassification.csproj", "{C3C3523D-838C-4053-930C-E0CAAB66EA8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEndToEnd", "TestEndToEnd\TestEndToEnd.csproj", "{83D93DD1-EFFF-4171-AAD5-ED57F58D73DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{C3C3523D-838C-4053-930C-E0CAAB66EA8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3C3523D-838C-4053-930C-E0CAAB66EA8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3C3523D-838C-4053-930C-E0CAAB66EA8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D93DD1-EFFF-4171-AAD5-ED57F58D73DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D93DD1-EFFF-4171-AAD5-ED57F58D73DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D93DD1-EFFF-4171-AAD5-ED57F58D73DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D93DD1-EFFF-4171-AAD5-ED57F58D73DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
